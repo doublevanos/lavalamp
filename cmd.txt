@@ -1,0 +1,1 @@
+git log --pretty=format:'%an %s' --date=short --stat --after=2015-01-31 > gitlog.txt
